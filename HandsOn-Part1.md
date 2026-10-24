@@ -36,4 +36,5 @@ Azure Network Watcher（ネットワーク ウォッチャー）は、Azure上�
 | リソースグループ | rg-nw-yagi |
 | 仮想ネットワーク | vnet-nw-yagi |
 | サブネット | subnet-nw-yagi |
+
 ※Network Watcherの診断でVMを選択できるように、VMは起動状態にしておきます。
